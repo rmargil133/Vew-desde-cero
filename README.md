@@ -6,6 +6,8 @@ Puedes acceder [desde aquí](https://www.escuelavue.es/cursos/curso-vue-3-desde-
 
 ![Curso Vue 3](https://a.storyblok.com/f/87002/1280x720/18667defa9/curso-vue-3-desde-cero.jpg)
 
+CURSO IMPARTIDO POR JUAN ANDRES NUÑEZ.
+
 En el **Curso de Vue 3 aprenderás a utilizar Vue.js desde cero** y paso a paso, en un pequeño proyecto real.
 
 > Aprender Vue desde cero es (además de una delicia) una de las mejores decisiones profesionales que has podido tomar. Enhorabuena 👏🏻
